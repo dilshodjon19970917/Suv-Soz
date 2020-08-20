@@ -1,1 +1,2 @@
 # Suv-Soz
+git init
